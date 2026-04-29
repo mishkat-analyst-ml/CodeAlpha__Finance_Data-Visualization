@@ -64,6 +64,6 @@ This project demonstrates how data visualization can help uncover investment tre
 
  Data analytics | python | sql | power BI |excel | machine learning
  
- Github: github.com/mishkat-analyst-ml
+ Github: https://github.com/mishkat-analyst-ml
  
  linkedin: www.linkedin.com/in/mishkat-ullah-21b6a839b
